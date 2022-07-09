@@ -4,7 +4,7 @@ Download all accepted codeforces submissions of a user, organised into an effici
 # Installation
 First of all, clone or download the above project using
 
-$ git clone https://github.com/abhishek002002/codeforces-suborganizer
+$ git clone https://github.com/ritikakumari12/codeforces-suborganizer
  
  
  # Install Dependencies
