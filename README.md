@@ -8,7 +8,7 @@ $ git clone https://github.com/ritikakumari12/codeforces-suborganizer
  
  
  # Install Dependencies
- npm install express request ejs body-parser cheerio
+pip install pandas numpy matplotlib seaborn
  
  # Working
  After running app.js, open http://localhost:3000/ on your PC.
